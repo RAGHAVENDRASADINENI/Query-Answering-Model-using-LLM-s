@@ -1,0 +1,8 @@
+transformers
+torch
+flask
+requests
+sentencepiece
+accelerate
+safetensors
+protobuf
